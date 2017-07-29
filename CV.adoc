@@ -1,22 +1,31 @@
-=== Maksim Gramin
+== Maksim Gramin
 
 [grid=none]
-[frame=none]
 [cols="5*"]
 |===
-
 ^|https://github.com/mgramin[Github]
 ^|https://pgday.ru/en/2017/papers/174[PGDay Russia 17]
 ^|https://habrahabr.ru/users/mgramin/[Habrahabr]
 ^|https://pgday.ru/ru/2017/papers/174[Linkedin]
-^|https://pgday.ru/ru/2017/papers/174[DockerHub]
-
+^|https://hub.docker.com/u/mgramin[DockerHub]
 |===
 
 
-==== Experience
+=== Experience
 
-==== My Projects
+- Croc
 
-==== Public Speaking
-PGDay Russia 17, July 2017, Keynote: https://pgday.ru/en/2017/papers/174[In search of the perfect tool]
+- Tander
+
+- Orgenergogaz
+
+- Talisman SQL
+
+
+=== My Projects
+ sql-boot - https://github.com/mgramin/sql-boot
+ Evolutionary, Transparent and Polyglot DB-framework for Developers, DBA and DevOps Engineers
+
+=== Public Speaking
+ PGDay Russia 17, July 2017, Keynote: In search of the perfect tool
+ https://pgday.ru/en/2017/papers/174
