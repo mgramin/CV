@@ -29,3 +29,6 @@
 === Public Speaking
  PGDay Russia 17, July 2017, Keynote: In search of the perfect tool
  https://pgday.ru/en/2017/papers/174
+
+
+end ...
