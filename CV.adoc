@@ -1,34 +1,32 @@
 == Maksim Gramin
 
 [grid=none]
-[cols="5*"]
+[cols="6"]
 |===
 ^|https://github.com/mgramin[Github]
+^|https://twitter.com/GraminMaksim[Twitter]
 ^|https://pgday.ru/en/2017/papers/174[PGDay Russia 17]
 ^|https://habrahabr.ru/users/mgramin/[Habrahabr]
-^|https://pgday.ru/ru/2017/papers/174[Linkedin]
+^|https://linkedin.com/in/maksim-gramin-a70ba05a[Linkedin]
 ^|https://hub.docker.com/u/mgramin[DockerHub]
 |===
 
 
 === Experience
 
-- Croc
+- https://www.croc.ru/eng[CROC inc]
 
-- Tander
+- JSC http://www.magnit-info.ru/about[Tander] (retail company "Magnit")
 
-- Orgenergogaz
+- JSC http://www.oeg.ru[Orgenergogaz]
 
-- Talisman SQL
+- http://talisman-sql.ru[Talisman SQL]
+
+- Web Developer
 
 
 === My Projects
- sql-boot - https://github.com/mgramin/sql-boot
- Evolutionary, Transparent and Polyglot DB-framework for Developers, DBA and DevOps Engineers
+https://github.com/mgramin/sql-boot[sql-boot] - evolutionary, transparent and polyglot DB-framework for developers, DBA and DevOps engineers
 
 === Public Speaking
- PGDay Russia 17, July 2017, Keynote: In search of the perfect tool
- https://pgday.ru/en/2017/papers/174
-
-
-end ...
+https://pgday.ru/en/2017[PGDay Russia 17], July 2017, https://pgday.ru/en/2017/papers/174[Keynote: In search of the perfect tool]
