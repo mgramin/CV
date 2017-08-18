@@ -1,17 +1,17 @@
 sudo: required
 
 services:
-  - docker                  
+  - docker
 
-before_install:            
+before_install:
   - mkdir -p output
   - docker pull asciidoctor/docker-asciidoctor
 
 script:
-  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html asciidoctor/docker-asciidoctor asciidoctor -D /documents/output *.adoc      
-  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-pdf asciidoctor/docker-asciidoctor asciidoctor-pdf -D /documents/output *.adoc    
+  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html asciidoctor/docker-asciidoctor asciidoctor -D /documents/output CV.adoc --out-file=index.html      
+  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-pdf asciidoctor/docker-asciidoctor asciidoctor-pdf -D /documents/output CV.adoc
 
-after_error: 
+after_error:
   - docker logs asciidoc-to-html
   - docker logs asciidoc-to-pdf
 
@@ -19,11 +19,10 @@ after_failure:
   - docker logs asciidoc-to-html
   - docker logs asciidoc-to-pdf
 
-after_success:      
-  - cd output 
+after_success:
+  - cd output
   - git init
   - git config user.name "${GH_USER_NAME}"
   - git config user.email "{GH_USER_EMAIL}"
   - git add . ; git commit -m "Deploy to GitHub"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
-
