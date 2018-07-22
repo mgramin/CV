@@ -1,32 +1,30 @@
-== Maksim Gramin
+== Maksim Gramin (@mgramin)
 
 [grid=none]
-[cols="6"]
+[cols="4"]
 |===
 ^|https://github.com/mgramin[Github]
 ^|https://twitter.com/GraminMaksim[Twitter]
-^|https://pgday.ru/en/2017/papers/174[PGDay Russia 17]
 ^|https://habrahabr.ru/users/mgramin/[Habrahabr]
 ^|https://linkedin.com/in/maksim-gramin-a70ba05a[Linkedin]
-^|https://hub.docker.com/u/mgramin[DockerHub]
 |===
 
 
 === Experience
 
-- https://www.croc.ru/eng[CROC inc]
-
-- JSC http://www.magnit-info.ru/about[Tander] (retail company "Magnit")
-
-- JSC http://www.oeg.ru[Orgenergogaz]
-
-- http://talisman-sql.ru[Talisman SQL]
-
-- Web Developer
+- https://www.croc.ru/eng[CROC inc] - Java engineer
+- http://www.magnit-info.ru/about[JSC Tander] ("Magnit" retail company) - Java/Oracle engineer
+- http://www.oeg.ru[JSC Orgenergogaz] - C#/Oracle engineer
+- http://talisman-sql.ru[Talisman SQL] - SQL-developer
+- Freelance Web-developer
 
 
 === My Projects
-https://github.com/mgramin/sql-boot[sql-boot] - evolutionary, transparent and polyglot DB-framework for developers, DBA and DevOps engineers
+- https://github.com/mgramin/sql-boot[sql-boot] - SQL-driven DB-management framework for Developers, DBA and DevOps.
+- https://github.com/sql-boot/sql-boot-manager[sql-boot-manager] - The first SQL-manager GUI written on SQL itself
+- https://github.com/mgramin/awesome-db-tools[awesome-db-tools] - This is a community driven list of database tools (ide, cli, managing, monitoring, migrations, modelers, visualization etc)
 
 === Public Speaking
-https://pgday.ru/en/2017[PGDay Russia 17], July 2017, https://pgday.ru/en/2017/papers/174[Keynote: In search of the perfect tool]
+- https://jugmsk.timepad.ru/event/732801["Database as a Code!"] on jug.msk.ru meetup 2018 - (https://habr.com/company/jugru/blog/413751[little overview])
+- https://rootconf.ru/moscow-rit/2018/abstracts/3341.html["Database as a Code!"] on "RooConf, RIT++ 2018"
+- Keynote: https://pgday.ru/en/2017/papers/174["In search of the perfect tool"] on https://pgday.ru/en/2017[PGDay Russia 17], July 2017
