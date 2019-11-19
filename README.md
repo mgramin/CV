@@ -2,7 +2,7 @@
 
 https://mgramin.github.io/CV
 
-PDF-version - https://cdn.rawgit.com/mgramin/CV/gh-pages/CV.pdf
+PDF-version - https://cdn.jsdelivr.net/gh/mgramin/CV@gh-pages/CV.pdf
 
 HTML-version - https://cdn.rawgit.com/mgramin/CV/gh-pages/index.html
 
