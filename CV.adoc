@@ -21,7 +21,7 @@
 
 === My Projects
 - https://github.com/mgramin/sql-boot[sql-boot] - SQL-driven DB-management framework for Developers, DBA and DevOps.
-- https://github.com/sql-boot/sql-boot-manager[sql-boot-manager] - The first SQL-manager GUI written on SQL itself
+- https://github.com/mgramin/malewicz[malewicz] - The first SQL-manager GUI written on SQL itself
 - https://github.com/mgramin/awesome-db-tools[awesome-db-tools] - This is a community driven list of database tools (ide, cli, managing, monitoring, migrations, modelers, visualization etc)
 
 === Public Speaking
