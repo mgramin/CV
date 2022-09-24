@@ -1,30 +1,75 @@
-== Maksim Gramin (@mgramin)
+== Maksim Gramin (mgramin)
 
 [grid=none]
 [cols="4"]
 |===
+^|https://gramin.pro[MyBlog]
 ^|https://github.com/mgramin[Github]
 ^|https://twitter.com/GraminMaksim[Twitter]
-^|https://habrahabr.ru/users/mgramin/[Habrahabr]
 ^|https://linkedin.com/in/maksim-gramin-a70ba05a[Linkedin]
 |===
 
 
+I'm a software engeneer, consultant and researcher passionate about database technologies and SQL.
+
+I have spent a lot of time working with various database systems. I was a SQL-developer on big distributed teams, implementing tons of complex and tricky business logic on a database side. And I worked as a classical Java developer and a team leader where we built microservices or monolith applications and interacted with any databases mainly through ORM or something like that. And I do want to share my experience and create tools and systems for simpler and more efficient work with data.
+
+
 === Experience
 
-- https://www.croc.ru/eng[CROC inc] - Java engineer
-- http://www.magnit-info.ru/about[JSC Tander] ("Magnit" retail company) - Java/Oracle engineer
-- http://www.oeg.ru[JSC Orgenergogaz] - C#/Oracle engineer
-- http://talisman-sql.ru[Talisman SQL] - SQL-developer
-- Freelance Web-developer
+[grid=none]
+[cols="2,2,8"]
+
+|===
+
+|Independent consultant
+|2022
+|*Independent consultant and researcher*.
+
+|https://www.querifylabs.com[Querify Labs]
+|2021-2022
+|*Software Engeneer*. Developing SQL-query optimizers for distributed systems based on Apache Calcite
+
+|https://digital-spirit.ru[Digital Spirit]
+|2021
+|*Java Developer*. Design and development of distributed systems based on microservice architecture (Spring, PostgreSQL, RabbitMQ, Keycloak)
+
+|https://www.croc.ru/eng[CROC inc]
+|2016-2021
+|*Software Engeneer*. Participation in many different projects, from large CRM based on SOA to a distributed database system based on PostgreSQL, as Java developer, architect and product owner.
+
+|https://magnit-info.ru[JSC Tander]
+|2015-2016
+|*Java Developer*. Building Enterprise Service Bus for an extensive retail network (Spring, Apache Camel, Apache Karaf, Oracle)
+
+|https://orgenergogaz.gazprom.ru[JSC OEG]
+|2011-2015
+|*Software Engeneer*. Building a data stack for distributed system based on Oracle DB (Oracle, SQL, stored procedures, C#)
+
+|http://talisman-sql.ru[Talisman SQL]
+|2009-2011
+|*SQL-developer*. Development of a data-centric system, implementation complex business logic on a database side (Firebird, SQL, stored procedures)
+
+|https://mir-idey.com[World of Ideas]
+|2009
+|*Web-Developer*. Design and development of a Content Management System (PHP, MySQL)
+
+|===
 
 
 === My Projects
-- https://github.com/mgramin/sql-boot[sql-boot] - SQL-driven DB-management framework for Developers, DBA and DevOps.
-- https://github.com/mgramin/malewicz[malewicz] - The first SQL-manager GUI written on SQL itself
-- https://github.com/mgramin/awesome-db-tools[awesome-db-tools] - This is a community driven list of database tools (ide, cli, managing, monitoring, migrations, modelers, visualization etc)
+
+- https://www.croc.ru/solution/as-cistema-upravleniya-bazami-dannyh-na-platforme-proxima-db[Proxima DB] - Architect and lead developer of distributed database management system based on PostgreSQL and the principles of https://github.com/mgramin/database-as-code["Database as Code"]. Database deployment, management and monitoring using simple code - SQL+YAML
+- https://github.com/croc-code/sql-boot[sql-boot] - Advanced REST-wrapper for your SQL-queries
+- https://github.com/mgramin/database-as-code[Database as Code Manifesto] - My view on "Database as Code" principles
+- https://github.com/mgramin/malewicz[Malewicz] - Hackable GUI SQL-manager written in SQL itself
+- https://github.com/mgramin/awesome-db-tools[awesome-db-tools] - A community-driven list of database tools that simplify working with databases for DBA, DevOps, Developers, and everyone else
+- https://gramin.pro[ProGramin'g thoughts] - My blog about SQL, database tools and database technologies
+
 
 === Public Speaking
-- https://jugmsk.timepad.ru/event/732801["Database as a Code!"] on jug.msk.ru meetup 2018 - (https://habr.com/company/jugru/blog/413751[little overview])
-- https://rootconf.ru/moscow-rit/2018/abstracts/3341.html["Database as a Code!"] on "RooConf, RIT++ 2018"
-- Keynote: https://pgday.ru/en/2017/papers/174["In search of the perfect tool"] on https://pgday.ru/en/2017[PGDay Russia 17], July 2017
+
+- https://percona.community/events/percona-community-live-2022/day-3-maksim-gramin["Database as Code. Not only migrations"] on Percona Community Live 2022 [https://github.com/mgramin/percona-community-live-2022[slides], https://percona.community/blog/2022/06/24/database-as-code[transcript]]
+- https://jugmsk.timepad.ru/event/732801["Database as a Code!"] on jug.msk.ru meetup 2018 - (https://habr.com/company/jugru/blog/413751[overview])
+- https://rootconf.ru/moscow-rit/2018/abstracts/3341.html["Database as a Code!"] on "RootConf, RIT++ 2018"
+- Keynote https://pgday.ru/en/2017/papers/174["In Search Of The Perfect Tool"] on https://pgday.ru/en/2017[PGDay Russia 17], July 2017
